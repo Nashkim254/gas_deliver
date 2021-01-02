@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "471589477621",
+    "project_id": "gascourier-7874b",
+    "storage_bucket": "gascourier-7874b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471589477621:android:59f26c6f94cb33e7c0f9bc",
+        "android_client_info": {
+          "package_name": "com.example.gas_retail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471589477621-3p9ci451k40jever5hl2ue0c5qpq9upn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gas_retail",
+            "certificate_hash": "c2b9f49f5697028d48abe3611830370c3ceb001e"
+          }
+        },
+        {
+          "client_id": "471589477621-lvkq4fns9am4860df6utlkrrg6liabhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHqAqFn65_uLW2QE7PeMorEJwxgVtWq30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471589477621-lvkq4fns9am4860df6utlkrrg6liabhq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
